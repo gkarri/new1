@@ -8,4 +8,7 @@ Main {}
 
 func1 {}
 
-func3 ()
+func3 {}
+
+Func6 {}
+
