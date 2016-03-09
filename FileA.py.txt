@@ -1,0 +1,10 @@
+#!/usr/bin/python
+
+#Main
+
+Main {}
+
+#function 1
+
+func1 {}
+
