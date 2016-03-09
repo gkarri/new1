@@ -1,14 +1,2 @@
-#!/usr/bin/python
 
-#Main
-
-Main {}
-
-#function 1
-
-func1 {}
-
-func3 {}
-
-Func6 {}
 
