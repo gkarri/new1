@@ -4,3 +4,7 @@
 
 Main {}
 
+#function 1
+
+func1 {}
+
